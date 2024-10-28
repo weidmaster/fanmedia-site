@@ -1,0 +1,151 @@
+#erro {
+	background: black;
+	border-style:solid;
+	border-width:2px;
+	border-color:red;
+	width: 460px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-left:-230px;
+	margin-top:-5%;
+	z-index:5;
+	display:block;
+}
+
+#erro h1 {
+	color:red;
+	font: 18px Arial,Verdana,sans-serif;
+	text-align:center;
+	padding-top:10px;
+}
+
+#erro a {
+
+	font: 16px Arial,Verdana,sans-serif;
+	color:#707070;
+	text-decoration:underline;
+	height:5px;
+	margin-left:220px;
+	
+}
+
+#erro a:hover {
+	font: 16px Arial,Verdana,sans-serif;
+	color:#9c9c9c;
+	text-decoration:none;
+	text-align:center;
+}
+#quadro {
+	background:black;
+	width:460px;
+	z-index: 4;
+	display:block;
+	/*filter: alpha(opacity=100);}*/
+	
+}
+
+
+
+#quadro h2 {
+	color:#DFCE00;
+	font: 18px Arial,Verdana,sans-serif;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+	
+}
+
+#quadro h3 {
+	color:#DFCE00;
+	font: 16px Arial,Verdana,sans-serif;
+	float:right;
+	margin-top:-15px;
+	margin-right:10px;
+}
+
+#quadro h4 {
+	color:#909090;
+	font: 14px Arial,Verdana,sans-serif;
+	font-weight: bold;
+	margin-left:15px;
+	
+}
+
+#quadro label ,p  {
+	color:#909090;
+	font: 14px Arial,Verdana,sans-serif;
+	margin-top:-10px;
+	padding-bottom:20px;
+	margin-left:10px;
+	margin-right:10px;
+	
+}
+
+
+#quadro input {
+	background:#3b3b3b ;
+	border:0;
+	color:#DFCE00;
+	text-indent:5px;
+	
+}
+
+#quadro textarea {
+	background:#3b3b3b ;
+	border:0;
+	color:#DFCE00;
+	text-indent:5px;
+	
+}
+
+form {
+	padding-bottom:20px;
+}
+
+hr {
+	height:1px;
+	width:430px;
+}
+
+form a {
+
+	font: 16px Arial,Verdana,sans-serif;
+	color:#707070;
+	text-decoration:underline;
+	float: right;
+	margin-right:15px;
+	height:5px;
+	
+}
+
+form a:hover {
+	font: 16px Arial,Verdana,sans-serif;
+	color:#9c9c9c;
+	text-decoration:none;
+	float: right;
+}
+
+#menu2 a{
+	font: 16px Arial,Verdana,serif;
+	color:green;
+	padding-top:2px;
+	height:20px;
+	display: block;
+	padding-left:15px;
+	
+	
+	text-decoration:none;
+		
+}
+
+#menu2 a:hover{
+	font: 16px Arial,Verdana,sans-serif;
+	color:white;
+	background:#353535 ;
+	padding-top:2px;
+	display: block;
+	text-decoration:none;
+		
+}

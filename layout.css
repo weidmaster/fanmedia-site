@@ -1,0 +1,140 @@
+#topo h1 {
+	background: url(imagens/logo.png) no-repeat left;
+	text-indent: -9000em;
+	overflow: hidden;
+	display: block;
+	width:790px;
+	height:200px;
+	margin:0;
+
+}
+
+#tudo {
+	position:absolute;
+	margin:0;
+}
+
+*#conteudo {
+	margin:auto;
+	width: 790px;
+	background:url(imagens/fundo.png) repeat-y;
+	
+}
+
+#pagina {
+	margin-top:25px;
+	min-height:300px;
+	width:500px;
+	float:right;
+	
+}
+
+
+#footer {
+	background: url(imagens/saber_rodape.gif) no-repeat right;
+	width:235px;
+	height:438px;
+	float:right;
+	margin-top:-438px;
+	opacity:0.20;
+	filter:alpha(opacity=20);
+	
+}
+
+#menu {
+	background:black ;
+	width: 250px;
+	float: left;
+	
+}
+
+#menu ul {
+	list-style:none;
+}
+
+#menu ul li a{
+	font: 16px Arial,Verdana,serif;
+	color:green;
+	padding-left:15px;
+	padding-top:2px;
+	height:20px;
+	display: block;
+	margin-left:-40px;
+	text-decoration:none;
+		
+}
+
+#menu ul li a:hover{
+	font: 16px Arial,Verdana,sans-serif;
+	color:white;
+	background:#353535 ;
+	padding-left:15px;
+	padding-top:2px;
+	display: block;
+	margin-left:-40px;
+	text-decoration:none;
+		
+}
+
+
+.fansub {
+	background: url(imagens/sec_fansub.png) no-repeat center;
+	width: 270px;
+	height:30px;
+	display: block;
+	text-indent: -9000em;
+	overflow: hidden;
+	margin-top:0px;
+}
+
+.ccg {
+	background: url(imagens/sec_ccg.png) no-repeat center;
+	width: 270px;
+	height:30px;
+	display: block;
+	text-indent: -9000em;
+	overflow: hidden;
+	margin-top:0px;
+}
+
+.multimidia {
+	background: url(imagens/sec_multimidia.png) no-repeat center;
+	width: 270px;
+	height:30px;
+	display: block;
+	text-indent: -9000em;
+	overflow: hidden;
+	margin-top:0px;
+}
+
+.livre {
+	background: url(imagens/sec_livre.png) no-repeat center;
+	width: 270px;
+	height:30px;
+	display: block;
+	text-indent: -9000em;
+	overflow: hidden;
+	margin-top:0px;
+}
+
+.status {
+	background: url(imagens/sec_status.png) no-repeat center;
+	width: 270px;
+	height:30px;
+	display: block;
+	text-indent: -9000em;
+	overflow: hidden;
+	margin-top:0px;
+}
+
+#creditos {
+	clear: both;
+	
+	width:300px;
+}
+
+#creditos adress {
+	font: 10px Verdana,Arial,sans-serif;
+	color: white;
+}
+*/
